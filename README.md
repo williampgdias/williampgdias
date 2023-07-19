@@ -10,20 +10,19 @@ Currently, I'm focusing my efforts on personal projects. I'm always seeking new 
 
 I'm constantly seeking to improve my skills and expand my knowledge in various areas. Right now, I'm focusing on:
 
-- Python, JavaScript.
+- HTML, CSS, JavaScript and React.
 - Learning about modern web development.
-- Exploring concepts of artificial intelligence and machine learning.
 
 ### 💻 Key technical skills:
 
-- Programming languages: Python, JavaScript
-- Frameworks and libraries: React, Flask
+- Programming languages: JavaScript, React, Next.js
+- Frameworks and libraries: React, Material UI, Bootstrap
 - Databases: MySQL, MongoDB
 - Version control tools: Git, GitHub
 
 ### 🌟 Other interests:
 
-Besides programming, I have an interest in various other areas, such as interface design, usability, entrepreneurship, and data science. I'm always looking for new opportunities to learn and apply this knowledge to creative projects.
+Besides programming, I have an interest in various other areas, such as interface design, usability and entrepreneurship. I'm always looking for new opportunities to learn and apply this knowledge to creative projects.
 
 ### 📫 How to reach me:
 
