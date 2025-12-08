@@ -1,34 +1,35 @@
-### Hello, I'm William Dias! 👋
+### Olá, sou o William Dias! 👋
 
-I'm a technology enthusiast passionate about programming and software development. I love exploring new ideas, solving challenging problems, and continuously learning. My goal is to build products and solutions that positively impact people's lives.
+Sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento de software. Meu foco atual é no **Desenvolvimento Backend com PHP**, explorando novas ideias e resolvendo problemas desafiadores através de código limpo e estruturado.
 
-### 🔭 Currently, I'm working on:
+---
 
-Currently, I'm focusing my efforts on personal projects. I'm always seeking new opportunities and interesting challenges.
+**🔭 No momento, estou trabalhando em:**
 
-### 🌱 I'm currently learning:
+Desenvolvendo um **Sistema de Guestbook Modular** utilizando **PHP 8 Moderno**. O projeto foca em **Arquitetura MVC**, uso de **Composer**, **Segurança** e persistência de dados.
 
-I'm constantly seeking to improve my skills and expand my knowledge in various areas. Right now, I'm focusing on:
+**🌱 No momento, estou aprendendo:**
 
-- HTML, CSS, JavaScript and React.
-- Learning about modern web development.
+Estou constantemente buscando melhorar minhas habilidades no ecossistema PHP:
+* **PHP 8 & POO:** Tipagem forte, Classes e Objetos.
+* **Arquitetura de Software:** Padrão MVC e organização de projetos.
+* **Segurança:** Autenticação de usuários e proteção de dados.
 
-### 💻 Key technical skills:
+**💻 Principais habilidades técnicas:**
 
-- Programming languages: JavaScript, React, Next.js
-- Frameworks and libraries: React, Material UI, Bootstrap
-- Databases: MySQL, MongoDB
-- Version control tools: Git, GitHub
+* **Linguagens:** PHP 8, SQL, JavaScript.
+* **Ferramentas & Bibliotecas:** Composer, Carbon, Git, GitHub.
+* **Banco de Dados:** MySQL, JSON Storage.
 
-### 🌟 Other interests:
+**🌟 Outros interesses:**
 
-Besides programming, I have an interest in various other areas, such as interface design, usability and entrepreneurship. I'm always looking for new opportunities to learn and apply this knowledge to creative projects.
+Arquitetura de Backend, Segurança Web e Empreendedorismo.
 
-### 📫 How to reach me:
+---
 
-If you'd like to get in touch with me to discuss collaborations, opportunities, or just have a chat about technology, feel free to send me a message through the following platforms:
+**📫 Como entrar em contato:**
 
-- Email: smdwilliam89@gmail.com
-- LinkedIn: https://www.linkedin.com/in/williampgdias/
+Se você quiser conversar sobre tecnologia, oportunidades ou colaborações, sinta-se à vontade para me mandar uma mensagem:
 
-I can't wait to connect with other developers and explore new ideas together! Let's build something amazing! 😄
+* **Email:** [smdwilliam89@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/williampgdias/]
