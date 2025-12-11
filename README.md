@@ -1,35 +1,35 @@
-### Olá, sou o William Dias! 👋
+### Hello, I'm William Dias! 👋
 
-Sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento de software. Meu foco atual é no **Desenvolvimento Backend com PHP**, explorando novas ideias e resolvendo problemas desafiadores através de código limpo e estruturado.
-
----
-
-**🔭 No momento, estou trabalhando em:**
-
-Desenvolvendo um **Sistema de Guestbook Modular** utilizando **PHP 8 Moderno**. O projeto foca em **Arquitetura MVC**, uso de **Composer**, **Segurança** e persistência de dados.
-
-**🌱 No momento, estou aprendendo:**
-
-Estou constantemente buscando melhorar minhas habilidades no ecossistema PHP:
-* **PHP 8 & POO:** Tipagem forte, Classes e Objetos.
-* **Arquitetura de Software:** Padrão MVC e organização de projetos.
-* **Segurança:** Autenticação de usuários e proteção de dados.
-
-**💻 Principais habilidades técnicas:**
-
-* **Linguagens:** PHP 8, SQL, JavaScript.
-* **Ferramentas & Bibliotecas:** Composer, Carbon, Git, GitHub.
-* **Banco de Dados:** MySQL, JSON Storage.
-
-**🌟 Outros interesses:**
-
-Arquitetura de Backend, Segurança Web e Empreendedorismo.
+I am a technology enthusiast passionate about programming and software development. My current focus is on **Backend Development with PHP**, exploring new ideas and solving challenging problems through clean and structured code.
 
 ---
 
-**📫 Como entrar em contato:**
+**🔭 Currently working on:**
 
-Se você quiser conversar sobre tecnologia, oportunidades ou colaborações, sinta-se à vontade para me mandar uma mensagem:
+Developing a **Modular Guestbook System** using **Modern PHP 8**. The project focuses on **MVC Architecture**, the use of **Composer**, **Security**, and data persistence.
+
+**🌱 Currently learning:**
+
+I am constantly seeking to improve my skills within the PHP ecosystem:
+* **PHP 8 & OOP:** Strong typing, Classes, and Objects.
+* **Software Architecture:** MVC Pattern and professional project organization.
+* **Security:** User authentication and data protection.
+
+**💻 Key Technical Skills:**
+
+* **Languages:** PHP 8, SQL, JavaScript.
+* **Tools & Libraries:** Composer, Carbon, Git, GitHub.
+* **Databases:** MySQL, JSON Storage.
+
+**🌟 Other Interests:**
+
+Backend Architecture, Web Security, and Entrepreneurship.
+
+---
+
+**📫 How to reach me:**
+
+If you'd like to chat about technology, opportunities, or collaborations, feel free to send me a message:
 
 * **Email:** [smdwilliam89@gmail.com]
-* **LinkedIn:** [https://www.linkedin.com/in/williampgdias/]
+* **LinkedIn:** [https://www.linkedin.com/in/williampgdias]
